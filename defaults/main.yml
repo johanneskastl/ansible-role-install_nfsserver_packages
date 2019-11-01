@@ -1,0 +1,5 @@
+---
+# defaults file for install_nfsserver_packages
+
+nfsserver_packages:
+    - nfs-kernel-server
