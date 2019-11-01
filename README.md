@@ -11,7 +11,7 @@ None.
 Role Variables
 --------------
 
-'nfsserver_packages': List of packages to install.
+`nfsserver_packages`: List of packages to install.
 
 Dependencies
 ------------
