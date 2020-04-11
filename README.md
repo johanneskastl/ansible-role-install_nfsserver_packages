@@ -1,3 +1,5 @@
+![Ansible Lint](https://github.com/johanneskastl/ansible-role-install_nfsserver_packages/workflows/Ansible%20Lint/badge.svg)
+
 install_nfsserver_packages
 =========
 
@@ -24,7 +26,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: username.rolename, x: 42 }
+         - { role: johanneskastl.install_nfsserver_packages }
 
 License
 -------

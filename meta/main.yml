@@ -11,10 +11,10 @@ galaxy_info:
   galaxy_tags: []
 
   platforms:
-  - name: SUSE
+  - name: SLES
     versions:
     - all
-  - name: openSUSE Leap
+  - name: opensuse
     versions:
     - all
 
