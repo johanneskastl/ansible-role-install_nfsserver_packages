@@ -13,7 +13,7 @@ None.
 Role Variables
 --------------
 
-`nfsserver_packages`: List of packages to install.
+`nfsserver_packages`: List of package(s) to install. Set this if the default (`nfs-kernel-server`) does not work for you.
 
 Dependencies
 ------------
