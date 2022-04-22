@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'install_nfsserver_packages'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Install packages needed for a NFS server'
   company: 'B1 Systems GmbH'
