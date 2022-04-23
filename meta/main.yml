@@ -12,11 +12,11 @@ galaxy_info:
   galaxy_tags: []
 
   platforms:
-  - name: SLES
-    versions:
-    - all
-  - name: opensuse
-    versions:
-    - all
+    - name: SLES
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
 
 dependencies: []
