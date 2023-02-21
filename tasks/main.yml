@@ -2,6 +2,6 @@
 # tasks file for install_nfsserver_packages
 
 - name: "Install NFS server packages"
-  package:
+  ansible.builtin.package:
     name: "{{ nfsserver_packages }}"
     state: "present"
