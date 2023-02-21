@@ -26,7 +26,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: johanneskastl.install_nfsserver_packages }
+         - role: johanneskastl.install_nfsserver_packages
 
 License
 -------
